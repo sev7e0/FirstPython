@@ -6,7 +6,7 @@
 # a = strs.split(" ")
 # print(a)
 
-#字符串操作
+# 字符串操作
 word = "hellopython"
 for i in word:
     print(i)
@@ -18,7 +18,7 @@ print('--------------------------')
 print("hyyd".join(word))
 print('--------------------------')
 
-#文件读取
+# 文件读取
 file = open("C:\\Users\lijiaqi-yd\PycharmProjects\FirstPython\\testfile\data.txt")
 con = file.read();
 print(con)

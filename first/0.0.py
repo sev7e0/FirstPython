@@ -34,7 +34,7 @@ print('---------------------------------')
 #         flag = True
 
 
-# 通过调用函数来实现计算
+# 通过调用函数来实现计算 猜数游戏
 def isEqual(num2, answer2):
     if num2 > answer2:
         print("%d is too small" % answer2)
